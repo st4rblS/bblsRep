@@ -21,3 +21,10 @@
 - 🍭 I am 19;
 - 🎵 I am Russiano;
 - 🕶️ Love boops
+
+### 🕳️ Использующиеся языки программирования и инструменты:
+
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width = "40" height = "40"/>
+  
+</div>
