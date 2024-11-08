@@ -36,3 +36,9 @@
 <div>
   <img src = "https://github-profile-trophy.vercel.app/?username=bbls" alt = ""/>
 </div>
+
+### 💩: Most using langs:
+
+<div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bbls" alt = ""/>
+</div>
