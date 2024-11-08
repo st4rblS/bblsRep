@@ -46,5 +46,5 @@
 ### 📊 Activity stats:
 
 <div>
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=st4rblStheme=dracula" alt = ""/>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=st4rblS&theme=dracula" alt = ""/>
 </div>
