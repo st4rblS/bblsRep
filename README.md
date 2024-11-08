@@ -22,11 +22,17 @@
 - 🎵 I am Russiano;
 - 🕶️ Love boops
 
-### 🕳️ Использующиеся языки программирования и инструменты:
+### 🕳️ Programming languages and tools that I used:
 
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width = "40" height = "40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width = "40" height = "40"/>
+</div>
+
+### 🏆 Achievements:
+
+<div>
+  <img src = "https://github-profile-trophy.vercel.app/?username=bbls" alt = ""/>
 </div>
