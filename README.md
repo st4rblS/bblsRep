@@ -9,7 +9,7 @@
 </div>
 
 <div id = "viewprof" align = "center">
-  <img src = "https://komarev.com/ghpvc/?username=bbls&style=flat-square&color=purple" alt =""/>
+  <img src = "https://komarev.com/ghpvc/?username=bbls&style=flat-square&color=blue" alt =""/>
 </div>
 
 <div id = "heythere" align = "center">
