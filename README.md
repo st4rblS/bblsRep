@@ -19,5 +19,5 @@
 ### 👨‍❤️‍💋‍👨ABOUT ME:
 
 - 🍭 I am 19;
-- 🇦🇴 I am Russiano;
+- 🎵 I am Russiano;
 - 🕶️ Love boops
