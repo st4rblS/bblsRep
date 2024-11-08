@@ -40,11 +40,11 @@
 ### 💩: Most using langs:
 
 <div>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bbls" alt = ""/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=st4rblS" alt = ""/>
 </div>
 
 ### 📊 Activity stats:
 
 <div>
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=bbls&theme=dracula" alt = ""/>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=st4rblStheme=dracula" alt = ""/>
 </div>
