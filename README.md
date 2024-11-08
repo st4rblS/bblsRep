@@ -15,3 +15,9 @@
 <div id = "heythere" align = "center">
   <h1> GitHub profile </h1>
 </div>
+
+### 👨‍❤️‍💋‍👨ABOUT ME:
+
+- 🍭 I am 19;
+- 🇦🇴 I am Russiano;
+- 🕶️ Love boops
