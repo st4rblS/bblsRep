@@ -34,7 +34,7 @@
 ### 🏆 Achievements:
 
 <div>
-  <img src = "https://github-profile-trophy.vercel.app/?username=bbls" alt = ""/>
+  <img src = "https://github-profile-trophy.vercel.app/?username=st4rblS" alt = ""/>
 </div>
 
 ### 💩: Most using langs:
